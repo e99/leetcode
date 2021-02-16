@@ -1,6 +1,6 @@
-LeetCode explore
+LeetCode
 ========
-### LeetCode explore 문제 매일 풀기
+### LeetCode explore
 
 | Date | Title | Solutions |
 | ---- | ----- | --------  | 
